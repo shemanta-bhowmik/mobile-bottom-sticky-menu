@@ -1,0 +1,28 @@
+.sb-mobile-bottom-menu {
+    background: #ffffff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    box-shadow: 10px 10px 10px 5px #000000;
+}
+.sb-mobile-bottom-menu .sb-container {
+    width: 100%;
+}
+.sb-mobile-bottom-menu ul {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.sb-mobile-bottom-menu ul li {
+    display: inline-block;
+    width: 19%;
+}
+.sb-mobile-bottom-menu ul li a {
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    /* border: .5px solid #cccccc; */
+    color: #000000;
+}

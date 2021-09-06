@@ -1,0 +1,7 @@
+@media only screen and ( min-width: 768px ) {
+
+    .sb-mobile-bottom-menu {
+        display: none;
+    }
+
+}
